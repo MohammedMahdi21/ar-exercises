@@ -11,4 +11,5 @@ puts "----------"
 
 @store1.update(name: "Mr.Moe")
 
+#output test
 puts @store1.name
