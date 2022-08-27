@@ -9,4 +9,9 @@ require_relative './exercise_6'
 puts "Exercise 7"
 puts "----------"
 
-# Your code goes here ...
+# Your test code goes here ...
+
+
+# emplo = @store1.employees.create(first_name: "Khurram", 
+# last_name: "Virani", hourly_rate: 60)
+# puts emplo.errors.as_json
